@@ -9,7 +9,7 @@
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working on my course work and preparing for final exam. Other than that, I am working on my own personal website and more interesting project, coming right up soon!!!
+- 🔭 I’m currently working on my course work and preparing for final exam. Other than that, I am working on my own personal website and some interesting projects, coming right up soon!!!
 - 🌱 I’m currently studying Artificial Intelligence and Computer Science.
 - 🤝 I'm currently looking for internships or graduate programs(2023).
 - 😄 Pronouns: He/Him
