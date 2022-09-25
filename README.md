@@ -14,6 +14,5 @@
 - 🌱 I’m currently pursuing BSc in Artificial Intelligence and Computer Science, graduating on June 2023.
 - 🧍 I'll have up to 2 years of free-to-stay visa for working in the UK. 
 - 🤝 I'm looking for graduate/entry-level roles in software engineering for 2023.
-
 - ⚡ Fun fact: I am a sneaker lover hehe.
 - 📫 Reach me at LinkedIn: https://www.linkedin.com/in/1rentaowan1/
