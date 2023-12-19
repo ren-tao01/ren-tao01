@@ -11,7 +11,9 @@
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m a graduate BSc in Artificial Intelligence and Computer Science.
-- 🧍 I hold 2 years of free-to-stay visa in the UK. 
-- 🤝 I'm actively looking for graduate/entry-level roles in software engineering / quantitative trading.
+- :beginner: Currently a freelancing developer working on a small project.
+- 🔭 Also learning about Web3 at the mean time.
+- 🤝 Looking for graduate/entry-level roles in software engineering / quantitative trading.
+- 🧍 Presently hold 2 years of free-to-stay graduate visa in the UK. 
 - ⚡ Fun fact: I am a sneaker lover hehe.
-- 📫 Reach me at LinkedIn: https://www.linkedin.com/in/1rentaowan1/
+- 📫 Feel free to reach me at LinkedIn: https://www.linkedin.com/in/1rentaowan1/
