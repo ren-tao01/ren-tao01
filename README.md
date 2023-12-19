@@ -10,7 +10,7 @@
 -->
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m a graduate BSc in Artificial Intelligence and Computer Science.
+- 🌱 I’m a 2023 graduate BSc in Artificial Intelligence and Computer Science.
 - :beginner: Currently a freelancing developer working on a small project.
 - 🔭 Also learning about Web3 at the mean time.
 - 🤝 Looking for graduate/entry-level roles in software engineering / quantitative trading.
