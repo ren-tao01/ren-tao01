@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him
 - 🌱 I’m a 2023 graduate BSc in Artificial Intelligence and Computer Science.
 - :beginner: Currently a freelancing developer working on a small project.
-- 🔭 Also learning about Web3 at the mean time.
+- 🔭 Also learning about Web 3 tech at the mean time.
 - 🤝 Looking for graduate/entry-level roles in software engineering / quantitative trading.
 - 🧍 Presently hold 2 years of free-to-stay graduate visa in the UK. 
 - ⚡ Fun fact: I am a sneaker lover hehe.
