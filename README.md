@@ -10,10 +10,9 @@
 -->
 
 - 😄 Pronouns: He/Him
+- ⚡ https://rentaowan.com
 - 🌱 I’m a 2023 graduate BSc in Artificial Intelligence and Computer Science.
 - :beginner: Currently a freelancing developer working on a small project.
 - 🔭 Also learning about Web 3 tech at the mean time.
-- 🤝 Looking for graduate/entry-level roles in software engineering / quantitative trading.
-- 🧍 Presently hold 2 years of free-to-stay graduate visa in the UK. 
-- ⚡ Fun fact: I am a sneaker lover hehe.
+- 🤝 Looking for graduate/entry-level roles in software engineering/quantitative trading.
 - 📫 Feel free to reach me at LinkedIn: https://www.linkedin.com/in/1rentaowan1/
