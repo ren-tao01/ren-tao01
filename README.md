@@ -11,7 +11,7 @@
 -->
 
 - 😄 Pronouns: He/Him
-- ⚡ https://rentaowan.com (Big update in the works)
-- 🌱 I’m a Operations Engineer currently based in London, UK. I follow stuffs around DeFi, not very good at it but learning everyday!
+- ⚡ https://rentaowan.com
+- 🌱 Based in London, UK.
 - 🤝 Open to software engineering/quantitative trading opportunities.
 - 📫 Feel free to reach me at LinkedIn: https://www.linkedin.com/in/1rentaowan1/
