@@ -12,6 +12,6 @@
 
 - 😄 Pronouns: He/Him
 - ⚡ https://rentaowan.com
-- 🌱 Based in London, UK.
-- 🤝 Open to software engineering/quantitative trading opportunities.
+- 🌱 Based in London, UK OR Kuala Lumpur, Malaysia.
+- 🤝 Open to engineering opportunities (software, infra, plat, quant dev, etc).
 - 📫 Feel free to reach me at LinkedIn: https://www.linkedin.com/in/1rentaowan1/
