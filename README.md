@@ -14,4 +14,5 @@
 - ⚡ https://rentaowan.com
 - 🌱 Based in London, UK OR Kuala Lumpur, Malaysia.
 - 🤝 Open to engineering opportunities (software, infra, plat, quant dev, etc).
-- 📫 Feel free to reach me at LinkedIn: https://www.linkedin.com/in/1rentaowan1/
+- 🔭 Building stuffs everyday with my Claude Code + Codex stack.
+- 📫 Feel free to reach me at LinkedIn: https://www.linkedin.com/in/rentaowan/
